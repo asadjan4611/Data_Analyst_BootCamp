@@ -21,13 +21,14 @@ Data_Analyst_BootCamp/
 ├── 📓 Activity Notebooks
 │   ├── Activity_1.ipynb          # Python fundamentals & basic operations
 │   ├── 2nd_Activty.ipynb         # Data types, lists, tuples, and DataFrames
+│   └── Lab3.ipynb               # Conditional logic and data type operations
 │   ├── Activity_4.ipynb          # Data exploration with Iris dataset
 │   ├── Activity_6 (1).ipynb      # Data cleaning and missing value handling
 │   ├── Activity_7.ipynb          # Working with multiple datasets (Netflix, Spotify, etc.)
 │   ├── Activity_8.ipynb          # Advanced data cleaning and preprocessing
 │   ├── Activty_11.ipynb         # Data organization: sorting, filtering, slicing
 │   ├── Activty_12.ipynb         # Advanced data manipulation with multiple datasets
-│   └── Lab3.ipynb               # Conditional logic and data type operations
+
 │
 ├── 📁 Sample Datasets
 │   ├── netflix_sample.csv
@@ -86,6 +87,13 @@ Data_Analyst_BootCamp/
 - Column operations and renaming
 - Data filtering and merging
 
+ ### 🔹 Lab 3: Conditional Logic & Data Types
+- Boolean operations
+- Conditional statements
+- Date and time operations
+- String manipulation
+- Working with different data types
+
 ### 🔹 Activity 4: Data Exploration
 - Loading and exploring datasets (Iris dataset)
 - Data inspection techniques (`head()`, `info()`, `describe()`)
@@ -128,12 +136,7 @@ Data_Analyst_BootCamp/
 - Appending and truncating operations
 - Multi-dataset workflows
 
-### 🔹 Lab 3: Conditional Logic & Data Types
-- Boolean operations
-- Conditional statements
-- Date and time operations
-- String manipulation
-- Working with different data types
+
 
 ---
 
@@ -252,4 +255,5 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ❤️ for the data analysis community
 
 </div>
+
 
