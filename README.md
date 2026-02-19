@@ -185,50 +185,7 @@ Data_Analyst_BootCamp/
 
 ---
 
-## 📝 Usage Example
 
-```python
-import pandas as pd
-import numpy as np
-
-# Load dataset
-df = pd.read_csv('sales_data2.csv')
-
-# Explore data
-print(df.head())
-print(df.info())
-
-# Clean data
-df = df.dropna()
-df['Customer_Name'] = df['Customer_Name'].str.strip()
-df['City'] = df['City'].str.title()
-
-# Analyze
-print(df.describe())
-```
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/asadjan4611/Data_Analyst_BootCamp/issues).
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Asad Jan**
-
-- GitHub: [@asadjan4611](https://github.com/asadjan4611)
-- Repository: [Data_Analyst_BootCamp](https://github.com/asadjan4611/Data_Analyst_BootCamp)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -255,5 +212,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ❤️ for the data analysis community
 
 </div>
+
 
 
